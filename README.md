@@ -1,10 +1,11 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <h1>
     <a href="https://elidianaandrade.github.io/">
      <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://github.com/carlos1alv/alves/assets/21139036/d94a1038-25c9-4a90-9790-0bc676e9518e"></a>
     <span>Carlos Alves</span>
 </h1>
+
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="250" src="https://github.com/carlos1alv/teste/assets/21139036/b77d203a-3bb5-419a-8a31-2f27919ef288.png">
 
 <p align="justify">Profissional de TI +14 anos de experiência ambientes redes e infraestrutura.
  Graduado em Ciências da Computação pelo UNICARIOCA,  | Telecomunicações - ITILv3 | CISCO CCNA | ALGOSEC ASMS | OCI Foundations | Membro ANPPD® | LPIC 101-500.
